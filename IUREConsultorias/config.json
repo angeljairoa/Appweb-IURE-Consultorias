@@ -1,0 +1,8 @@
+{
+"url-backend": "127.0.0.1",
+"port": 9999,
+
+  "data-db-connection": "mongodb+srv://adminangel:abcde12345@cluster0.pbm9pue.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "iure-consultorias"
+}
+
